@@ -1,0 +1,11 @@
+C:\Users\Public\Source\Repos\Aula06Streaming\Aula06Streaming\bin\Debug\Aula06Streaming.exe.config
+C:\Users\Public\Source\Repos\Aula06Streaming\Aula06Streaming\bin\Debug\Aula06Streaming.exe
+C:\Users\Public\Source\Repos\Aula06Streaming\Aula06Streaming\bin\Debug\Aula06Streaming.pdb
+C:\Users\Public\Source\Repos\Aula06Streaming\Aula06Streaming\obj\Debug\Aula06Streaming.csproj.AssemblyReference.cache
+C:\Users\Public\Source\Repos\Aula06Streaming\Aula06Streaming\obj\Debug\Aula06Streaming.Properties.Resources.resources
+C:\Users\Public\Source\Repos\Aula06Streaming\Aula06Streaming\obj\Debug\Aula06Streaming.csproj.GenerateResource.cache
+C:\Users\Public\Source\Repos\Aula06Streaming\Aula06Streaming\obj\Debug\Aula06Streaming.csproj.CoreCompileInputs.cache
+C:\Users\Public\Source\Repos\Aula06Streaming\Aula06Streaming\obj\Debug\Aula06Streaming.exe
+C:\Users\Public\Source\Repos\Aula06Streaming\Aula06Streaming\obj\Debug\Aula06Streaming.pdb
+C:\Users\Public\Source\Repos\Aula06Streaming\Aula06Streaming\obj\Debug\Aula06Streaming.Form1.resources
+C:\Users\Public\Source\Repos\Aula06Streaming\Aula06Streaming\obj\Debug\Aula06Streaming.Form2.resources
